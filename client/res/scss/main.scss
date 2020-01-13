@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600|Roboto:100,300');
+
+/* import your styles here */
+
+* {
+  box-sizing: border-box;
+}
+
+.sample-page{
+  text-align: center;
+  font-size: 48px;
+  color: #2277ff;
+}
+
+.instructions {
+  p{
+    font-size: 28px;
+    font-weight: 900;
+  }
+}
+
+.tasks {
+  p{
+    font-size: 28px;
+    font-weight: 900;
+  }
+}
+
+.api-key{
+  font-weight: 600;
+}
+.thumb-img{
+  width: 800px;
+}
